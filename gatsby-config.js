@@ -2,9 +2,9 @@ var proxy = require('http-proxy-middleware')
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Code Wilderness | Learn to code with confidence',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Code Wilderness is a blog run by Scott Domes with the goal of helping for junior developers to become confident engineers.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
